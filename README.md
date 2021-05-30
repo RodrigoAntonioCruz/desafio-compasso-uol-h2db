@@ -34,19 +34,21 @@ Desenvolver uma `API REST` de catálogo de produtos que contemple as seguintes o
 
 1. Clone ou baixe o projeto do repositório para o seu `Computador`.
 
-2. Navegue até a raíz do seu diretório onde salvou ou clonou o projeto, abra o `terminal e execute em sequencia os comandos:` 
-  <li> `sudo gradle build`
-  <li> `sudo docker-compose build`
-  <li> `sudo docker-compose up`
+2. Navegue até a raíz do seu diretório onde salvou ou clonou o projeto, abra o `terminal e execute em sequencia os comandos:`
+<ul> 
+   <li> sudo gradle build
+   <li> sudo docker-compose build
+   <li> sudo docker-compose up
+</ul>
 
 3. Após a execução do processo anterior, estará disponível para acesso em seu browser os seguintes `Endpoints` para teste:
-
+<ul> 
   <li>
    <a href="http://localhost:9999" target="_blank">API-REST</a>
 
   <li>
    <a href="http://localhost:9999/h2-console" target="_blank">H2DB Console</a>
-
+</ul> 
 
 ### Executando os testes unitários
 
