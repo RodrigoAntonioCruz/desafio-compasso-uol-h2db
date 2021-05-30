@@ -12,7 +12,7 @@
 Desenvolver uma `API REST` de catálogo de produtos que contemple as seguintes operações nos respectivos `Endpoints`:
 
 <p align="center">
-  <img align="center" src="https://githubfinder.compasso.rodrigodacruz.com.br/static/endpoints.png" />
+  <img align="center" src="https://raw.githubusercontent.com/RodrigoAntonioCruz/assets/main/oie_l54n8XM2Q6B3.png" />
 </p>
 
 
