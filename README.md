@@ -3,13 +3,13 @@
 </p>
 
 <h2 align="center">
-  DESAFIO BACKEND COMPASSO UOL 
+  DESAFIO BACKEND COMPASSO UOL H2DB
 </h2>
 
 
 ### Contexto do Desafio
 
-Desenvolver uma `API REST` de catálogo de produtos que contemple as seguintes operações nos respectivos `Endpoints`:
+Desenvolver uma `API REST` de catálogo de produtos que utilize como meio de persistência de dados um `banco de dados relacional(H2DB)` e contemple as seguintes operações nos respectivos `Endpoints`:
 
 <p align="center">
   <img align="center" src="https://raw.githubusercontent.com/RodrigoAntonioCruz/assets/main/endpoints.png" />
@@ -44,10 +44,10 @@ Desenvolver uma `API REST` de catálogo de produtos que contemple as seguintes o
 3. Após a execução do processo anterior, estará disponível para acesso em seu browser os seguintes `Endpoints` para teste:
 <ul> 
   <li>
-   <a href="http://localhost:9999" target="_blank">API-REST</a>
+   <a href="http://localhost:9999" target="_blank">API-REST (http://localhost:9999)</a>
 
   <li>
-   <a href="http://localhost:9999/h2-console" target="_blank">H2DB Console</a>
+   <a href="http://localhost:9999/h2-console" target="_blank">H2DB Console (http://localhost:9999/h2-console)</a>
 </ul> 
 
 ### Executando os testes unitários
